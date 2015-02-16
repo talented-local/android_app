@@ -25,7 +25,9 @@ import android.widget.Toast;
 
 public class Login extends Activity implements OnClickListener {
 
-	// klk
+	
+	// git check
+	// bla bla
 	private EditText user, pass;
 	private Button mSubmit, mRegister;
 
